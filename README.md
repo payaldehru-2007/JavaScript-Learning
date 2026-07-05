@@ -1,6 +1,6 @@
 # JavaScript Learning
 
-My JavaScript practice files, covering core syntax and fundamentals as part of daily placement preparation — following [Namaste JavaScript](https://www.youtube.com/@akshaymarch7) and [Hitesh ChaiaurCode's](https://www.youtube.com/@chaiaurcode) YouTube series for structured learning.
+My JavaScript practice files, covering core syntax and fundamentals as part of daily placement preparation — following [Hitesh ChaiaurCode's](https://www.youtube.com/@chaiaurcode) YouTube series for structured learning.
 
 ## 📚 Topics Covered
 
